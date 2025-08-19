@@ -23,6 +23,9 @@
         watch
         cmake
         gitAndTools.gh
+        zig
+        tree
+        codecrafters-cli
       ];
 
       programs.zsh.enable = true;
